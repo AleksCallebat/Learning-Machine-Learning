@@ -1,6 +1,6 @@
 # Learning-Machine-Learning
 ## Alors comme ça tu veux apprendre le machine learning
-La bonne nouvelle c’est que c’est aujourd'hui facile. Plus aucune raison ne t'autorise à rester sur ce niveau de pipo que tu as acquis il y a deux ans en lisant un blog poste. Et d'abord, pour te mettre dans le bain, clique-donc sur ce [https://www.xkcd.com/1838/](related xkcd) qui cerne avec une précision hilarante le travail de data scientist. 
+La bonne nouvelle c’est que c’est aujourd'hui facile. Plus aucune raison ne t'autorise à rester sur ce niveau de pipo que tu as acquis il y a deux ans en lisant un blog poste. Et d'abord, pour te mettre dans le bain, clique-donc sur ce [related xkcd](https://www.xkcd.com/1838/ ) qui cerne avec une précision hilarante le travail de data scientist. 
 
 ##Case 1 : Je veux savoir pipoter.
 
