@@ -2,7 +2,7 @@
 ## Alors comme ça tu veux apprendre le machine learning
 La bonne nouvelle c’est que c’est aujourd'hui facile. Plus aucune raison ne t'autorise à rester sur ce niveau de pipo que tu as acquis il y a deux ans en lisant un blog poste. Et d'abord, pour te mettre dans le bain, clique-donc sur ce [related xkcd](https://www.xkcd.com/1838/ ) qui cerne avec une précision hilarante le travail de data scientist. 
 
-##Case 1 : Je veux savoir pipoter.
+## Case 1 : Je veux savoir pipoter.
 
 B-A BA mais en fait c'est non trivial :
 	- wikipédia
@@ -19,7 +19,7 @@ JumpStarts avec des prérequis acceptables :
 	- Vidéos du MVA assez high level (=ppt)
 	
 
-##Case 2 : je veux savoir faire
+## Case 2 : je veux savoir faire
 
 Prérequis 
 	- Python : cours Microsoft, codeacademy,udacity
@@ -55,7 +55,8 @@ Divers
 	- Groupe facebook indispensable : Artificial Intelligence & Deep Learning Memes For Back-propagated Poets
 
 
-###En fait, tout compte fait, je veux pas faire de maths. Et vous êtes bizarres, franchement ==> solutions préfaites
+### Case 3 : En fait, tout compte fait, je veux pas faire de maths. Et vous êtes bizarres, et je veux même pas savoir ce que vous faites.
+solution ==> solutions préfaites
 	- Services cognitifs 
 	- Gallerie de solution préfaites 
 
