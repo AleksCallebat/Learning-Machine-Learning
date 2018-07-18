@@ -8,7 +8,7 @@ Ces liens sont des points de départ, il ne faut donc pas hésiter à cliquer su
 
 ## Case 1 : Je veux savoir pipoter.
 
-Tu te dis que ton vernis de connaissance (que, au passage, tu répands beaucoup plus que tu n'entretiens) mérite un peti -ctrl+R-. Voici une sélection de liens
+Tu te dis que ton vernis de connaissance (que, au passage, tu répands beaucoup plus que tu n'entretiens) mérite un petit CTRL+R. Voici une sélection de liens pour le faire.
 
 ### B-A BA mais en fait c'est non trivial :
 - [wikipédia](https://en.wikipedia.org/wiki/Machine_learning) est ton amie
@@ -27,10 +27,10 @@ Tu te dis que ton vernis de connaissance (que, au passage, tu répands beaucoup 
 
 ## Case 2 : je veux savoir faire
 
-Dev ou bien Jeune enthousiaste, tu te dis à raison que le meilleur moyen de savoir est de faire soi-même. Voici quelques liens selon le moyen d'apprentissage qui te parle le plus.
+Dev ou bien jeune enthousiaste, tu te dis à raison que le meilleur moyen de savoir est de faire soi-même. Voici quelques liens selon le moyen d'apprentissage qui te parle le plus.
 
 ### Prérequis 
-- Python :  [cours Microsoft](https://www.edx.org/course/introduction-to-python-fundamentals-0), [codeacademy](https://www.codecademy.com/learn/learn-python),[udacity](https://eu.udacity.com/course/introduction-to-python--ud1110)
+- Python :  [cours Microsoft](https://www.edx.org/course/introduction-to-python-fundamentals-0), [codeacademy](https://www.codecademy.com/learn/learn-python), [udacity](https://eu.udacity.com/course/introduction-to-python--ud1110)
 - Ou R : Donc en fait il y a pas de lien car je suis un pythoniste. Mais internet est ton ami :)
 - Ou C# ou autre.
 Enfin, il faut savoir scripter quoi. Coder proprement, non, c’est clairement pas dans l’esprit de la communauté, mais scripter rapidement, oui. J'ai mis les langages dans l'ordre de préférence.
@@ -49,7 +49,7 @@ Enfin, il faut savoir scripter quoi. Coder proprement, non, c’est clairement p
 
 ### Forums/communautés 
 - Reddit : [r/machinelearning](https://www.reddit.com/r/MachineLearning/), [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning). Le deuxième agrège moult liens utiles pour apprendre, le premier regroupe une communauté orientée R&D de qualité.
-- Facebook : "apprentissage profond" (le 'très' a été enlevé après que le forum soit devenu mainstream)
+- Facebook : "apprentissage profond" (le 'très' a tristement été enlevé après que le forum soit devenu mainstream)
 - Il y a un discord apprentissage profond en France, aussi.
 - Kaggle.com : par google, plateforme pour s'attaquer à des problèmes concrets
 
@@ -71,4 +71,6 @@ La solution (on pourrait ici débattre pour savoir si c'est l'avenir de la major
 - [Gallerie de solution préfaites](https://gallery.azure.ai/)
 
 
-Caveat : Ces liens auront pour un observateur externe une connotation Microsoft. Ils ne sont cependant pas là car on me paye pour mettre des liens MS, mais parce que je les trouve utiles et les connais.
+*Caveat : Ces liens auront pour un observateur externe une connotation Microsoft. Ils ne sont cependant pas là car on me paye pour mettre des liens MS, mais parce que je les trouve utiles et les connais.*
+
+*All pull request are more than welcome*
