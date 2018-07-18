@@ -66,10 +66,12 @@ Ces liens sont des points de départ, il ne faut donc pas hésiter à cliquer su
 
 ## Case 3 : En fait, tout compte fait, je veux pas faire de maths. Et vous êtes bizarres, et je veux même pas savoir ce que vous faites.
 
-La solution (on pourrait ici débattre pour savoir si c'est l'avenir de la majorité) est d'utiliser des solutions préfaites. En voici :
+La solution (on pourrait ici débattre pour savoir si c'est l'avenir pour la majorité) est d'utiliser des solutions préfaites. En voici :
 
 - [Services cognitifs](https://azure.microsoft.com/fr-fr/services/cognitive-services/)
 - [Gallerie de solution préfaites](https://gallery.azure.ai/)
+
+
 
 
 *Caveat : Ces liens auront pour un observateur externe une connotation Microsoft. Ils ne sont cependant pas là car on me paye pour mettre des liens MS, mais parce que je les trouve utiles et les connais.*
