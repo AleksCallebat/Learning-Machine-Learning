@@ -8,7 +8,7 @@ Ces liens sont des points de départ, il ne faut donc pas hésiter à cliquer su
 
 ## Case 1 : Je veux savoir pipoter.
 
-Tu te dis que ton vernis de connaissance (que, au passage, tu répands beaucoup plus que tu n'entretiens) mérite un petit CTRL+R. Voici une sélection de liens pour le faire.
+*Tu te dis que ton vernis de connaissance (que, au passage, tu répands beaucoup plus que tu n'entretiens) mérite un petit CTRL+R. Voici une sélection de liens pour le faire.*
 
 ### B-A BA mais en fait c'est non trivial :
 - [wikipédia](https://en.wikipedia.org/wiki/Machine_learning) est ton amie
@@ -27,13 +27,14 @@ Tu te dis que ton vernis de connaissance (que, au passage, tu répands beaucoup 
 
 ## Case 2 : je veux savoir faire
 
-Dev ou bien jeune enthousiaste, tu te dis à raison que le meilleur moyen de savoir est de faire soi-même. Voici quelques liens selon le moyen d'apprentissage qui te parle le plus.
+*Dev ou bien jeune enthousiaste, tu te dis à raison que le meilleur moyen de savoir est de faire soi-même. Voici quelques liens selon le moyen d'apprentissage qui te parle le plus.*
 
 ### Prérequis 
 - Python :  [cours Microsoft](https://www.edx.org/course/introduction-to-python-fundamentals-0), [codeacademy](https://www.codecademy.com/learn/learn-python), [udacity](https://eu.udacity.com/course/introduction-to-python--ud1110)
 - Ou R : Donc en fait il y a pas de lien car je suis un pythoniste. Mais internet est ton ami :)
 - Ou C# ou autre.
-Enfin, il faut savoir scripter quoi. Coder proprement, non, c’est clairement pas dans l’esprit de la communauté, mais scripter rapidement, oui. J'ai mis les langages dans l'ordre de préférence.
+
+*Enfin, il faut savoir scripter quoi. Coder proprement, non, c’est clairement pas dans l’esprit de la communauté, mais scripter rapidement, oui. J'ai mis les langages dans l'ordre de préférence.*
 
 ### Get-Started :
 - Article : [Comment j'ai appris le machine learning](https://howicodestuff.github.io/machine_learning/2018/01/12/a-roadmap-to-machine-learning.html) (des kilotonnes de liens sont inclus  dans cet article)
