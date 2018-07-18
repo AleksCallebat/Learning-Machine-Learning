@@ -9,31 +9,31 @@ Ces liens sont des points de départ, il ne faut donc pas hésiter à cliquer su
 ## Case 1 : Je veux savoir pipoter.
 
 ### B-A BA mais en fait c'est non trivial :
-	- [wikipédia](https://en.wikipedia.org/wiki/Machine_learning) est ton amie
+	 [wikipédia](https://en.wikipedia.org/wiki/Machine_learning) est ton amie
 	
 ### Culture générale pour faire bien en soirée :
-	- [Quand utiliser du deep learning vs du machine learning classique](https://www.youtube.com/watch?v=bdxDPNIizV0&index=4&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1)
-	- [State of ai](https://www.stateof.ai/) : un article qui fait (devinez) l'était de l'art en machine learning
-	- [Vidéo sur ONNX qui veut rien dire mais avec du budget pour qu'on comprenne que c'est important](https://www.facebook.com/onnxai/videos/190916914880568/?fref=mentions)
-	- [Pipoter sur l'autoML](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/janakirammsv/2018/04/15/why-automl-is-set-to-become-the-future-of-artificial-intelligence/&refURL=&referrer=#4dc1da9d780a)
-	- [Youtube de Microsoft research](https://www.youtube.com/user/MicrosoftResearch) : chaine youtube de qualité présentant les dernières avancées de MS. Complexité à grande variance. 
+	 [Quand utiliser du deep learning vs du machine learning classique](https://www.youtube.com/watch?v=bdxDPNIizV0&index=4&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1)
+	 [State of ai](https://www.stateof.ai/) : un article qui fait (devinez) l'était de l'art en machine learning
+	 [Vidéo sur ONNX qui veut rien dire mais avec du budget pour qu'on comprenne que c'est important](https://www.facebook.com/onnxai/videos/190916914880568/?fref=mentions)
+	 [Pipoter sur l'autoML](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/janakirammsv/2018/04/15/why-automl-is-set-to-become-the-future-of-artificial-intelligence/&refURL=&referrer=#4dc1da9d780a)
+	 [Youtube de Microsoft research](https://www.youtube.com/user/MicrosoftResearch) : chaine youtube de qualité présentant les dernières avancées de MS. Complexité à grande variance. 
 	
 ### JumpStarts avec des prérequis acceptables :
-	- Pour ceux qui savent ce qu'est une somme : [qu'est-ce que le ML & deep learning](https://www.youtube.com/watch?v=kUV045QBWJg&index=2&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1).
-	- [Vidéos du MVA](https://microsoft.sharepoint.com/sites/infopedia/Media/details/aevd-3-101987) assez high level (=ppt)
+	 Pour ceux qui savent ce qu'est une somme : [qu'est-ce que le ML & deep learning](https://www.youtube.com/watch?v=kUV045QBWJg&index=2&list=PLlrxD0HtieHi0mwteKBOfEeOYf0LJU4O1).
+	 [Vidéos du MVA](https://microsoft.sharepoint.com/sites/infopedia/Media/details/aevd-3-101987) assez high level (=ppt)
 	
 
 ## Case 2 : je veux savoir faire
 
 ### Prérequis 
-	- Python :  [cours Microsoft](https://www.edx.org/course/introduction-to-python-fundamentals-0), [codeacademy](https://www.codecademy.com/learn/learn-python),[udacity](https://eu.udacity.com/course/introduction-to-python--ud1110)
-	- Ou R : Donc en fait je suis un pythoniste. Mais internet est ton ami :)
-	- Ou C# ou autre.
+	Python :  [cours Microsoft](https://www.edx.org/course/introduction-to-python-fundamentals-0), [codeacademy](https://www.codecademy.com/learn/learn-python),[udacity](https://eu.udacity.com/course/introduction-to-python--ud1110)
+	Ou R : Donc en fait je suis un pythoniste. Mais internet est ton ami :)
+    Ou C# ou autre.
 	Enfin, il faut savoir scripter quoi. Coder proprement, non, c’est clairement pas dans l’esprit de la communauté, mais scripter rapidement, oui. Langages dans l'ordre de préférence.
 
 
 ### Get-Started :
-	- Article : Comment j'ai appris le machine learning (des kilotonnes de liens inclus)
+	Article : [Comment j'ai appris le machine learning](https://howicodestuff.github.io/machine_learning/2018/01/12/a-roadmap-to-machine-learning.html) (des kilotonnes de liens sont inclus  dans cet article)
 	- Doc Python : sklearn (référence)
 	- Doc R : package caret
 	- Doc C# : doc bien faite pour ML dotnet
